@@ -1,6 +1,8 @@
 site_name: My Docs
 theme:
   name: material
+  icon:
+    logo: material/toy-brick
   palette:
 
     # Palette toggle for automatic mode
@@ -22,3 +24,31 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+  language: en
+
+  features:
+#     - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+copyright: Copyright &copy; 2023 - 2024 All the Tonys
+
+extra:
+  generator: false
