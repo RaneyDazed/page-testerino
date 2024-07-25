@@ -2,7 +2,7 @@
 
 Yeah. So guys named Tony are great. But they're really good at doing stuff at houses. The houses at which Tonys work are always better than *other* houses.
 
-Does your house need like some drywall? Hit up a Tony! They'll get the job done right.
+Does your house need like some drywall? Hit up a [Tony!](https://letmegooglethat.com/?q=tony+phone+numbers) They'll get the job done right.
 
 ```
 
